@@ -21,3 +21,7 @@ tempraC = float(tempraK) - 273.15
 descrip = data01[dcrpStart:dcrpEnd]
  
 print "The temperature in {0} is {1}C and the weather is {2}".format(country, tempraC, descrip)
+
+# well done
+# 40/40, im not going to ask how you found out how to use git
+# all I needed was posting this on gist.github.com
